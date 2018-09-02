@@ -125,6 +125,16 @@ article
 	color: #000000;
 }
 
+/* Footer Here */
+
+footer
+{
+    color: white;
+    text-align: center;
+    font-size: 8pt;
+    margin: 20px;
+}
+
 /* Classes Here */
 
 .floatright
